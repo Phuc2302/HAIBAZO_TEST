@@ -1,0 +1,7 @@
+- tạo data
+- [{key: f1, label: f1}, {key: f2, label: f2, children: [{key: f2, label: f2}] } ]
+- 
+
+- thiết kết lại giải pháp
+- chỉnh sửa style theo dạng cây
+- record màn hình khi làm + research nếu có
